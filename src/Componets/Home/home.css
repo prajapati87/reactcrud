@@ -1,0 +1,17 @@
+body {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.main {
+  margin: 10px 10px;
+  overflow-x: hidden;
+}
+.headline {
+  background-color: #7e57c2;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.headline h1 {
+  color: white;
+}

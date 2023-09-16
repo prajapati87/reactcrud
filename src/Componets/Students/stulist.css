@@ -1,0 +1,55 @@
+.row h2 {
+  text-align: center;
+  margin-top: 10px;
+  background-color: #66bb6a;
+  padding: 20px;
+  color: white;
+  font-weight: 400;
+  font-size: 35px;
+}
+
+.row input {
+  width: 100%;
+  font-size: larger;
+  margin-top: 10px;
+  height: 50px;
+  padding: 10px;
+}
+
+.row button {
+  width: 90%;
+  margin: 20px 5%;
+  background-color: #303f9f;
+  color: white;
+  padding: 10px 0;
+  border-radius: 10px;
+  border: none;
+}
+
+.stuTable {
+  text-align: center;
+  width: 100%;
+}
+.stuTable th {
+  padding: 10px 0px;
+  background-color: #616161;
+  color: white;
+  font-size: 17px;
+}
+.stuTable td {
+  padding: 15px 0;
+}
+.stuTable tr {
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+.icongap {
+  display: flex;
+  gap: 20px;
+  font-size: 20px;
+  justify-content: center;
+}
+.stuTable a {
+  list-style: none;
+  text-decoration: none;
+}

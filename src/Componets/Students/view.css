@@ -1,0 +1,43 @@
+.viewpage {
+  margin: 10px 20px;
+  text-align: center;
+}
+
+.viewpage h1 {
+  background-color: #ffa726;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  color: white;
+  font-weight: 400;
+}
+
+.viewpage table {
+  width: 100%;
+  text-align: center;
+}
+
+.viewpage table th {
+  background-color: #616161;
+  border: 1px solid lightgray;
+  padding: 10px 10px;
+  color: white;
+  font-weight: 500;
+}
+
+.viewpage table td {
+  border: 1px solid lightgray;
+  padding: 15px;
+}
+
+.viewpage button {
+  background-color: #303f9f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 25px;
+  margin-top: 10px;
+  font-weight: 500;
+}
